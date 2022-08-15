@@ -5,10 +5,8 @@ MANIKANTA GURRAM
 213070098_M.Tech_TA
 Electrical_IITB
 
-	
-	DESIGN OF ASYNCHRONOUS FIFO
 
-1) "Design of Asynchronous FIFO.pdf " : contains all the theory about  Asynchronous FIFO, Block diagram and the outputs of simulation.
+1) "Asynchronous_fifo_design.pdf " : contains all the theory about  Asynchronous FIFO, Block diagram and the outputs of simulation.
 
 2) "AsynchronousFIFO.v" : contains verilog code for the Asynchronous FIFO
 
